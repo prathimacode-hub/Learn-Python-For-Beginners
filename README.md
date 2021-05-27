@@ -1,6 +1,10 @@
 # Learn-Python-For-Beginners
 This repository helps you in gaining the basic knowledge of Python3 programming in a simplified way. 
 
+I have put up the tutorials covering up the well needed topics to learn Python easily without any hurdles.
+
+Do check this out and if you find any bug or you got to suggest something, don't hesitate to raise an issue.
+
 # Table Of Contents
 
 1.  Installing Python
@@ -33,7 +37,7 @@ This project follows MIT [License](LICENSE)
 
 [![GitHub followers](https://img.shields.io/github/followers/prathimacode-hub.svg?label=Follow%20@prathimacode-hub&style=social)](https://github.com/prathimak88/)  [![Twitter Follow](https://img.shields.io/twitter/follow/prathimak88?style=social)](https://twitter.com/prathimak88)
 
-If you feel stuck anywhere, don't hesitate to reach me out. Feel free to reach out to me for any suggestions. 
+If you feel stuck anywhere, don't hesitate to reach me out. I'm always open to answer your queries through dicussions. Feel free to reach out to me. 
 If you like this tutorial, consider giving a ⭐ to this project and share it as much as you can.
 
 
