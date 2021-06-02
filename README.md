@@ -1,4 +1,5 @@
-# Learn-Python-For-Beginners
+# Learn - Python For Beginners
+
 This repository helps you in gaining the basic knowledge of Python3 programming in a simplified way. 
 
 I have put up the tutorials covering up the well needed topics to learn Python easily without any hurdles.
