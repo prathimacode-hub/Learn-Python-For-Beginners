@@ -1,12 +1,43 @@
 # Learn - Python For Beginners
 
+![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Learn-Python-For-Beginners.png)
+
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![Maintenance](https://img.shields.io/maintenance/yes/2021) 
+
+
+<center>
+
+![](https://badgen.net/github/stars/prathimacode-hub/Learn-Python-For-Beginners)
+![](https://badgen.net/github/forks/prathimacode-hub/Learn-Python-For-Beginners)
+
+</center>
+
+
+<h2> 📌Repository</h2>
+
 This repository helps you in gaining the basic knowledge of Python3 programming in a simplified way. 
 
 I have put up the tutorials covering up the well needed topics to learn Python easily without any hurdles.
 
-Do check this out and if you find any bug or you got to suggest something, don't hesitate to raise an issue.
+You can get all the skills here to start exploring your very own python projects.
 
-# Table Of Contents
+Do check this out and if you find any bug or you got to suggest or add up something, don't hesitate to raise an issue.
+
+
+<h2> 🙌Join Here</h2>
+
+Anyone related to technology who are looking to contribute to open-source, are all invited to hop in. This place has task for everyone.
+
+If you find this repo useful or it did help you in learning python, do share it with the world so that others can get benefitted as you did.  
+
+Drop me a private message if you want to let me know of your progress in learning or to share your projects you had built. I would be happy to assist you or look over your tots coming up live.
+
+To make your learning turn into practice, I had created an open source project of [Awesome Python Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts). Do add your projects to enhance your learning experience. It has everything to offer for you and is a one stop place for all kinds of python scripts.
+
+I would be glad to see you mention this repository, if it's the reason that made you contribute your python scripts.
+
+
+<h2> 💡Table Of Contents</h2>
 
 1.  Installing Python
 2.  Introduction to Python
@@ -19,19 +50,19 @@ Do check this out and if you find any bug or you got to suggest something, don't
 9.  [Classes, Inheritance](https://github.com/prathimacode-hub/Learn-Python-For-Beginners/blob/main/9%20-%20Classes%2C%20Inheritance.ipynb)
 10. Constructors, Exception Handling
 
-<h2> ❤️ Project Admin</h2>
 
-<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=150px height=150px /></a>
+<h2> 😎 Project Admin</h2>
+
+<a href="https://github.com/prathimacode-hub"><img src="https://github.com/prathimacode-hub/prathimacode-hub/blob/main/Prathima%20updated%20profile%20pic.jpg" width=120px height=120px /></a>
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-**Prathima Kadari**
 
 <a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
 
 
-<h2> License</h2>
+<h2> 📝License</h2>
 
-This project follows MIT [License](LICENSE)
+This project follows the MIT [License](LICENSE)
 
 
 <h2>⭐Give this Project a Star</h2>
@@ -41,9 +72,22 @@ This project follows MIT [License](LICENSE)
 If you feel stuck anywhere, don't hesitate to reach me out. I'm always open to answer your queries through dicussions. Feel free to reach out to me. 
 If you like this tutorial, consider giving a ⭐ to this project and share it as much as you can.
 
-
 🎉 🎊 😃 Happy Learning 😃 🎊 🎉
 
 
 <sup><kbd>***[Click here](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/PROJECTS.md)***</kbd> *to view my other projects.</sup>* <br>
 </td>
+
+
+<h2>📬 Contact</h2>
+
+If you want to contact me, you can reach me through social handles.
+
+<a href="https://twitter.com/prathimak88"><img src="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/1200px-Twitter_Bird.svg.png" width="25"></img></a>&nbsp;&nbsp; <a href="https://www.linkedin.com/in/prathima-kadari/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"></img></a>
+
+
+© 2021 Prathima Kadari
+
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
+
