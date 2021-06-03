@@ -15,8 +15,8 @@ Do check this out and if you find any bug or you got to suggest something, don't
 5.  [Data Structures - Lists, Tuples, Sets](https://github.com/prathimacode-hub/Learn-Python-For-Beginners/blob/main/5%20-%20Data%20Structures%20-%20Lists%2C%20Tuples%2C%20Sets.ipynb)
 6.  [Data Structures - Strings, Dictionaries](https://github.com/prathimacode-hub/Learn-Python-For-Beginners/blob/main/6%20-%20Data%20Structures%20-%20Strings%2C%20Dictionaries.ipynb)
 7.  [Control Flow Statements, List Comprehensions](https://github.com/prathimacode-hub/Learn-Python-For-Beginners/blob/main/7%20-%20Control%20Flow%20Statements%2C%20List%20Comprehensions.ipynb)
-8.  Functions, Implicit Arguments, Lambda
-9.  Classes, Inheritance
+8.  [Functions, Implicit Arguments, Lambda](https://github.com/prathimacode-hub/Learn-Python-For-Beginners/blob/main/8%20-%20Functions%2C%20Implicit%20Arguments%2C%20Lambda.ipynb)
+9.  [Classes, Inheritance](https://github.com/prathimacode-hub/Learn-Python-For-Beginners/blob/main/9%20-%20Classes%2C%20Inheritance.ipynb)
 10. Constructors, Exception Handling
 
 <h2> ❤️ Project Admin</h2>
