@@ -8,7 +8,6 @@
 <center>
 
 ![](https://badgen.net/github/stars/prathimacode-hub/Learn-Python-For-Beginners)
-![](https://badgen.net/github/forks/prathimacode-hub/Learn-Python-For-Beginners)
 
 </center>
 
