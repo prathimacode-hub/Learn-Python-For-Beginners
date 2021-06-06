@@ -2,15 +2,8 @@
 
 ![Alt text of image](https://github.com/prathimacode-hub/prathimacode-hub/blob/main/CoverPhotos/Learn-Python-For-Beginners.png)
 
-[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![Maintenance](https://img.shields.io/maintenance/yes/2021) 
-
-
-<center>
-
-![](https://badgen.net/github/stars/prathimacode-hub/Learn-Python-For-Beginners)
-
-</center>
-
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/prathimacode-hub) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) ![Maintenance](https://img.shields.io/maintenance/yes/2021) ![](https://badgen.net/github/stars/prathimacode-hub/Learn-Python-For-Beginners)
+ 
 
 <h2> 📌Repository</h2>
 
