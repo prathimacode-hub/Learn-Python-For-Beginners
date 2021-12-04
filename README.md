@@ -24,7 +24,7 @@ If you find this repo useful or it did help you in learning python, do share it 
 
 Drop me a private message if you want to let me know of your progress in learning or to share your projects you had built. I would be happy to assist you or look over your tots coming up live.
 
-To make you familiarize with how programming works in python with proper structuring and algorithms, here I present a [repo](https://github.com/prathimacode-hub/PyAlgo-Tree) specifically for contributors who wants to explore and practice their concepts.
+To make you familiarize with how programming works in python with proper structuring and algorithms, here I present a [PyAlgo-Tree](https://github.com/prathimacode-hub/PyAlgo-Tree) project specifically for contributors who wants to explore and practice their concepts.
 
 To make your learning turn dwelve into real time, I had created an open source project of [Awesome Python Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts). Do add your projects to enhance your learning experience. It has everything to offer for you and is a one stop place for all kinds of python scripts.
 
