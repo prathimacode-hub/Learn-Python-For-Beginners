@@ -28,6 +28,8 @@ To make you familiarize with how programming works in python with proper structu
 
 To make your learning turn dwelve into real time, I had created an open source project of [Awesome Python Scripts](https://github.com/prathimacode-hub/Awesome_Python_Scripts). Do add your projects to enhance your learning experience. It has everything to offer for you and is a one stop place for all kinds of python scripts.
 
+To check on to my personal compilation of python projects, you can visit the project of [Pythonista For All](https://github.com/prathimacode-hub/Pythonista_ForAll/)
+
 Keep Learning! Keep Growing!
 
 I would be glad to see you mention this repository, if it's the reason that made you contribute your python scripts or algorithms.
